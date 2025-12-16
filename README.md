@@ -1,7 +1,7 @@
 # Clément Gadeau
 
 ## 🎓 **About Me**  
-Final year student at **ENSAE Paris** and **Master of Data Science, Ecole Polytechnique**.
+Final year student at **[ENSAE Paris](https://www.ensae.fr)** and **Master of Data Science, Ecole Polytechnique**.
 
 I’m passionate about **Data Science, Machine Learning, and Statistics**, with a strong interest in turning complex problems into elegant, data-driven solutions.
 
